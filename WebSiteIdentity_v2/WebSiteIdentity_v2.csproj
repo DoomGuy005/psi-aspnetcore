@@ -111,6 +111,7 @@
     <Content Include="View\WebSiteMenu.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Code\startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
